@@ -18,3 +18,5 @@ Google Colab (Google Colaboratory)
 Es una plataforma de cuadernos interactivos basada en la nube que permite a los usuarios escribir y ejecutar código. 
 Algunas razones por las que elegir Google Colab son que está en la nube, el acceso es gratuito, los cuadernos combinan texto y código, la colabpracién es fácil, la integración con Google Drive y que inlcuye librerías preinstaladas.
 
+https://colab.research.google.com/
+
