@@ -33,6 +33,10 @@ Los pasos a seguir serían:
 
 En la carpeta de enlaces, puedes encontrar algunos cursos, artículos y documentación que puede ser de utilidad.
 
+En la carpeta de seguridad, tienes enlaces a cursos y artículos sobre ciberseguridad y contraseñas que pueden resultar interesantes.
+
+También dispones de un ejemplo en el que usar el generador de contraseñas, en este caso sería para el registro de un formulario, el documento también es un cuaderno de Google Colab.
+
 Las contribuciones son bienvenidas. Si lo deseas:
 
 1. Haz un fork del repositorio
