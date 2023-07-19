@@ -31,6 +31,7 @@ Los pasos a seguir serían:
 4. Generar la contraseña
    Ejecuta la celda que contiene el código para generar la contraseña. La contraseña generada se mostrará en la salida del cuaderno.
 
+En la carpeta de enlaces, puedes encontrar algunos cursos, artículos y documentación que puede ser de utilidad.
 
 Las contribuciones son bienvenidas. Si lo deseas:
 
