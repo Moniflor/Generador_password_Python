@@ -20,3 +20,25 @@ Algunas razones por las que elegir Google Colab son que está en la nube, el acc
 
 https://colab.research.google.com/
 
+Los pasos a seguir serían:
+
+1. Abrir el cuaderno en Google Colab
+   Haz clic en el siguiente enlace para abrir el cuaderno en Google Colab: https://colab.research.google.com/drive/1mAw2KUK1zg6SFp-sdMdKA6DDvGLOPWsx?hl=es#scrollTo=HwFJ6-kjJywu  Asegúrate de estar conectado a tu cuenta de Google.
+2. Ejecutar el cuaderno
+   Una vez abierto el cuaderno, ejecuta todas las celdas en el cuaderno para cargar el programa. Puedes hacerlo presionando Shift + Enter en cada celda o seleccionando "Runtime" en la barra de menú y luego "Run all".
+3. Especificar la longitud de la contraseña
+   En el cuaderno encontrarás la variable "longitud_contrasena" que se encuentra en una de las celdas de código. Esta variable determina la longitud de la contraseña que se generará. Cambia el valor de esta variable según la longitud deseada.
+4. Generar la contraseña
+   Ejecuta la celda que contiene el código para generar la contraseña. La contraseña generada se mostrará en la salida del cuaderno.
+
+
+Las contribuciones son bienvenidas. Si lo deseas:
+
+1. Haz un fork del repositorio
+2. Realiza tus cambios o mejoras
+3. Envía una solicitud de pull con una descripción detallada de tus cambios
+
+
+Si tienes alguna pregunta o sugerencia no dudes en abrir un issue o ponerte en contacto conmigo.
+
+¡ Gracias por tu interés!
