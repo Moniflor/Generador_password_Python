@@ -23,7 +23,7 @@ https://colab.research.google.com/
 Los pasos a seguir serían:
 
 1. Abrir el cuaderno en Google Colab
-   Haz clic en el siguiente enlace para abrir el cuaderno en Google Colab: https://colab.research.google.com/drive/1mAw2KUK1zg6SFp-sdMdKA6DDvGLOPWsx?hl=es#scrollTo=HwFJ6-kjJywu  Asegúrate de estar conectado a tu cuenta de Google.
+   Haz clic en el siguiente enlace para abrir el cuaderno en Google Colab: https://github.com/Moniflor/Generador_password_Python/blob/main/Generador_contrase%C3%B1as_Python.ipynb
 2. Ejecutar el cuaderno
    Una vez abierto el cuaderno, ejecuta todas las celdas en el cuaderno para cargar el programa. Puedes hacerlo presionando Shift + Enter en cada celda o seleccionando "Runtime" en la barra de menú y luego "Run all".
 3. Especificar la longitud de la contraseña
